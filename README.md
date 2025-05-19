@@ -1,7 +1,4 @@
 # Username Checker
----
-
-**This tool is still under repair!**
 
 ---
 
@@ -62,7 +59,7 @@ Then enter the username you want to check when prompted.
 
 ## Output
 
-![Output](assets/ossint-username.png)
+![Output](assets/osint-username.png)
 
 ---
 
@@ -76,11 +73,12 @@ Then enter the username you want to check when prompted.
 
 ---
 
-## Disclaimer ⚠️
+## ⚠️ Disclaimer ⚠️
 
 This tool is created **For educational purposes only**.  
 Misuse of this tool for stalking, unauthorized surveillance, or any form of malicious activity is strictly prohibited.  
 The creator is not responsible for any misuse or damage caused by this software.
+**This tool is still under repair!**
 
 ---
 
