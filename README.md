@@ -62,7 +62,7 @@ Then enter the username you want to check when prompted.
 
 ## Output
 
-![Output](assets/screenshots.png)
+![Output](assets/ossint-username.png)
 
 ---
 
