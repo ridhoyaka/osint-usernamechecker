@@ -62,7 +62,7 @@ Then enter the username you want to check when prompted.
 
 ## Output
 
-![Hasil Tools](assets/username.png)
+![Output](assets/screenshots.png)
 
 ---
 
