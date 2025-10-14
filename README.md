@@ -1,4 +1,4 @@
-# Username Checker!
+# Username Checker
 
 ---
 
